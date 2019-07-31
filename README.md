@@ -5,7 +5,7 @@ We used [Wand](https://prowand.pro-unlimited.com) to enter our time cards.
 
 I used this script with Windows Task Scheduler, so every Friday at 5pm it would run this script.
 
-Made this because I am too lazy to do my own time card ¯\_(ツ)_/¯
+Made this because I am too lazy to do my own time card `¯\_(ツ)_/¯`
 
 # Installation
 * Python 3

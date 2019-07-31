@@ -16,6 +16,7 @@ I used this script with Windows Task Scheduler, so every Friday at 5pm it would 
   pip3 install selenium
   ```
 * Chrome Webdriver in PATH
+* Enter your Username and Password in the script
 * Run the script
   ```
   python Magic_Wand.py

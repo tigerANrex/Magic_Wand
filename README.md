@@ -11,6 +11,10 @@ I used this script with Windows Task Scheduler, so every Friday at 5pm it would 
   ```
   pip install selenium
   ```
+  ---or---
+  ```
+  pip3 install selenium
+  ```
 * Chrome Webdriver in PATH
 * Run the script
   ```

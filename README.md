@@ -20,7 +20,7 @@ I used this script with Windows Task Scheduler, so every Friday at 5pm it would 
   ```
   python Magic_Wand.py
   ```
-  --or--
+  ---or---
   ```
   python3 Magic_Wand.py
   ```
